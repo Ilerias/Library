@@ -1,0 +1,20 @@
+﻿[
+  {
+    "ISBN": "9783161484117",
+    "Title": "Learning Blazor",
+    "Author": "Alice Smith",
+    "PublishYear": 2022,
+    "Price": 8000,
+    "FileType": 0,
+    "FileSize": 5.5
+  },
+  {
+    "ISBN": "9781234567891",
+    "Title": "Entity Framework Core",
+    "Author": "Bob Johnson",
+    "PublishYear": 2021,
+    "Price": 7500,
+    "FileType": 2,
+    "FileSize": 25.0
+  }
+]

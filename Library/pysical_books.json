@@ -1,0 +1,20 @@
+﻿[
+  {
+    "ISBN": "9783161484100",
+    "Title": "C# Programming",
+    "Author": "John Doe",
+    "PublishYear": 2021,
+    "Price": 12000,
+    "PageCount": 500,
+    "Weight": 800
+  },
+  {
+    "ISBN": "9781234567890",
+    "Title": "ASP.NET Core",
+    "Author": "Jane Doe",
+    "PublishYear": 2020,
+    "Price": 9500,
+    "PageCount": 600,
+    "Weight": 750
+  }
+]
