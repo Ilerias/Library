@@ -7,8 +7,14 @@ public enum FileType
     MOBI
 }
 
-public class EBook
+public class EBook : Book
 { 
     public FileType FileType { get; set; }
     public double FileSize { get; set; }
+
+    public EBook() {}
+    public override bool IsFitPackage(int size)
+    {
+        return false;
+    }
 }
